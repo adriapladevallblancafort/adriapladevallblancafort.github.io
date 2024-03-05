@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: MY WEBSITE
+title: Adrià Pladevall
 
 # Your name to show in the footer
 author: Adrià Pladevall Blancafort
@@ -21,10 +21,6 @@ author: Adrià Pladevall Blancafort
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -55,7 +51,7 @@ social-network-links:
   github: adriapladevallblancafort
 #  medium: yourname
 #  reddit: yourname
-  linkedin: www.linkedin.com/in/adriapladevall
+  linkedin: adriapladevall
   instagram: adriapladevall
 
 
@@ -71,9 +67,6 @@ share-links-active:
   linkedin: true
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
