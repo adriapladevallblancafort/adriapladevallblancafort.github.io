@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Embracing Authenticity: A Journey of Self-Discovery
+title: Embracing Authenticity. A Journey of Self-Discovery
 subtitle: Reflecting on the Path of Biomedical Engineering
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 author: Adria Pladevall Blancafort
 ---
-
 # Embracing Authenticity: A Journey of Self-Discovery
 
 In the maze of scientific exploration and technological advancement, I've found myself deeply immersed in the world of biomedical engineering—a realm where innovation meets compassion, and where the pursuit of knowledge intertwines with the desire to heal and improve lives.
