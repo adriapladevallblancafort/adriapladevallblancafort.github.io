@@ -1,18 +1,29 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Embracing Authenticity: A Journey of Self-Discovery
+subtitle: Reflecting on the Path of Biomedical Engineering
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Adria Pladevall Blancafort
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+# Embracing Authenticity: A Journey of Self-Discovery
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+In the maze of scientific exploration and technological advancement, I've found myself deeply immersed in the world of biomedical engineering—a realm where innovation meets compassion, and where the pursuit of knowledge intertwines with the desire to heal and improve lives.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+As a graduate from the prestigious Universitat de Barcelona, specializing in biomedical engineering, I've had the privilege of delving into the intricacies of this captivating field. It's a discipline that not only challenges the boundaries of human understanding but also offers endless opportunities to make a tangible difference in the world.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+At the core of biomedical engineering lies a relentless pursuit of innovation—a commitment to pushing the limits of what is possible in the realm of healthcare. Whether it's developing cutting-edge medical devices or exploring groundbreaking therapies, the quest for discovery is never-ending.
+
+But beyond the technical complexities and scientific breakthroughs, I've come to realize that biomedical engineering is ultimately about more than just innovation. It's about empathy, compassion, and a deep-seated desire to alleviate suffering and improve quality of life.
+
+In my journey as a biomedical engineer, I've been humbled by the resilience and courage of those facing illness and adversity. Their stories have taught me the true meaning of compassion and have inspired me to redouble my efforts in the pursuit of innovation and progress.
+
+As I reflect on my path in biomedical engineering, I'm filled with gratitude for the opportunities I've been given and the impact I've been able to make. Yet, I'm also acutely aware of the challenges that lie ahead and the responsibility we bear as engineers to use our knowledge for the betterment of society.
+
+So, as I continue on this journey of self-discovery and exploration, I invite you to join me. Let's embrace the authenticity of our experiences, and let's strive to make a meaningful difference in the world through the power of biomedical engineering.
+
+With passion and determination,
+
+Adria Pladevall Blancafort
