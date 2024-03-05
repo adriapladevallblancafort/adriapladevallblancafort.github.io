@@ -3,9 +3,9 @@ layout: page
 title: About me
 ---
 
-# About Adria Pladevall Blancafort
+# About Adrià Pladevall Blancafort
 
-Hello! My name is Adria Pladevall Blancafort, and I am thrilled to share a little about myself with you.
+Hello! My name is Adrià Pladevall Blancafort, and I am thrilled to share a little about myself with you.
 
 ## Biography
 
